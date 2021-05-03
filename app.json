@@ -1,8 +1,8 @@
 {
-  "name": "Calls Music 2",
+  "name": "TG-MusicVCv1.0.1",
   "description": "Telegram bot + userbot for streaming audio in group calls.",
   "keywords": ["telegram", "python"],
-  "repository": "https://github.com/callsmusic/callsmusic2",
+  "repository": "https://github.com/W29F/TG-MusicVCv1.0.1",
   "stack": "container",
   "env": {
     "STRING_SESSION": {
